@@ -63,7 +63,7 @@ def get_stall_threshold() -> float:
 
 def get_rolling_window_size() -> int:
     """Fetch rolling window size from environment or use default."""
-    window_size = int(os.getenv("SMOKER_ROLLING_WINDOW_SIZE", 5))
+    window_size = int(os.getenv("SMOKER_ROLLING_WINDOW_SIZE", 3))
     logger.info(f"Rolling window size: {window_size}")
     return window_size
 

@@ -1,0 +1,34 @@
+[
+    {
+        "message": "I love spring.",
+        " author": "Massachusettes"
+    },
+    {
+        "message": "What are seasons?",
+        "author": "Florida"
+    },
+    {
+        "message": "I love Winter!",
+        "author": "Alaska"
+    },
+    {
+        "message": "I love all seasons",
+        "author": "New Hampshire"
+    },
+    {
+        "message": "Autumn is fascinating.",
+        "author": "Vermont"
+    },
+    {
+        "message": "We only have two seasons: winter and construction",
+        "author": "Minnesota"
+    },
+    {
+        "message": "All seasons are great",
+        "author": "Wisconsin"
+    },
+    {
+        "message": "As long as it's not winter",
+        "author": "North Dakota"
+    }
+]
